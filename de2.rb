@@ -40,7 +40,7 @@ class Dev < Employees
     end
 
     def getOt 
-       @one
+       @ot_hours
     end
 
     def request_ot
