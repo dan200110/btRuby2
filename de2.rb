@@ -40,7 +40,7 @@ class Dev < Employees
     end
 
     def getOt 
-       puts "hello" 
+       @one
     end
 
     def request_ot
